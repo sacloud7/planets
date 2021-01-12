@@ -1,0 +1,4 @@
+*.dat
+results/
+tmp.txt
+.gitignore.txt
